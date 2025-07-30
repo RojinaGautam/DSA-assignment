@@ -2,7 +2,7 @@
 import java.util.*;
 
 // Define the main public class for Question 1a
-public class Questionn_1a {
+public class Questionn1a {
     
     // Static method to find maximum capital - can be called without creating class instance
     public static int findMaximizedCapital(int k, int c, int[] revenues, int[] investments) {

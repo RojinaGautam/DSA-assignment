@@ -2,7 +2,7 @@
 
 import java.util.*; // Import utility classes
 
-public class Questionn_3b {
+public class Questionn3b {
     // Class to represent a palindrome with its start, end positions and length
     static class Palindrome {
         int start, end, length; // Start index, end index, and length of palindrome

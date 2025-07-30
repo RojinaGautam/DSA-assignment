@@ -15,7 +15,7 @@ import java.util.concurrent.*; // Import concurrency utilities
 import java.util.concurrent.locks.ReentrantLock; // Import reentrant lock
 import javax.swing.*; // Import utility classes
 
-public class Questionn_5b {
+public class Questionn5b {
     // Main TicketBookingSystem class
     static class TicketBookingSystem extends JFrame {
         private final int rows = 10; // Number of seat rows

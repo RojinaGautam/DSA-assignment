@@ -19,7 +19,7 @@ import java.util.concurrent.*;
 import javax.swing.*;
 
 // Main class
-public class Questionn_6a {
+public class Questionn6a {
     // Inner class representing the traffic signal system, extends JFrame to create a GUI window
     static class TrafficSignalSystem extends JFrame {
         // Enum for signal states (RED, YELLOW, GREEN)
