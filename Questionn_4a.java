@@ -8,7 +8,7 @@ Task: Implement the SecureTransmission class with methods to verify if a message
 
 import java.util.*; // Import utility classes
 
-public class Question_4a {
+public class Questionn_4a {
     // SecureTransmission class to manage network transmission
     static class SecureTransmission {
         private int n; // Number of offices (nodes)

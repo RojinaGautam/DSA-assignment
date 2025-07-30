@@ -8,7 +8,7 @@ The scientist has a dataset containing the daily temperature changes (increase o
 Task: Count the number of continuous time periods where the total temperature change falls within the specified range.
 */
 
-public class Question_2a {
+public class Questionn_2a {
     // Method to count anomaly periods within the specified threshold range
     public static int countAnomalyPeriods(int[] temperature_changes, int low_threshold, int high_threshold) {
         int n = temperature_changes.length; // Get the length of the temperature changes array

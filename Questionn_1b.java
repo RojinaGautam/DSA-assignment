@@ -9,7 +9,7 @@ A bank is implementing a new PIN security policy to strengthen customer account 
 Task: Given a string pin_code, return the minimum number of changes required to make it strong. If the PIN is already strong, return 0.
 */
 
-public class Question_1b {
+public class Questionn_1b {
     // Method to compute the minimum number of changes to make the PIN strong
     public static int strongPinPolicy(String pin_code) {
         int n = pin_code.length(); // Get the length of the PIN

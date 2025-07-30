@@ -11,7 +11,7 @@ Task: Determine the winner of the game based on the game rules.
 
 import java.util.*; // Import utility classes
 
-public class Question_4b {
+public class Questionn_4b {
     // Method to determine winner of treasure hunt game
     public static int treasureHuntGame(List<List<Integer>> graph) {
         // Player 1 starts at node 1, Player 2 starts at node 2

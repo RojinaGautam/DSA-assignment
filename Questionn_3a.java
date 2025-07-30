@@ -1,5 +1,5 @@
 
-public class Question_3a {
+public class Questionn_3a {
     // Method to find maximum repetitions of p2 that can be extracted from seqA
     public static int getMaxRepetitions(String p1, int t1, String p2, int t2) {
         // Create the full sequence A by repeating p1 t1 times

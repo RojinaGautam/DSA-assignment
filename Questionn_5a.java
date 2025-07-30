@@ -11,7 +11,7 @@ import java.awt.*; // Import Swing components for GUI
 import java.util.*; // Import AWT for graphics and layout
 import javax.swing.*; // Import for action events
 
-public class Question_5a {
+public class Questionn_5a {
     // Main MazeSolver class with GUI components
     static class MazeSolver extends JFrame {
         private int width = 20; // Width of the maze grid

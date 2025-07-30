@@ -1,7 +1,7 @@
 
 import java.util.*; // Import utility classes
 
-public class Question_2b {
+public class Questionn_2b {
     // Method to solve cryptarithmetic puzzle using backtracking
     public static boolean solveCryptarithmetic(String equation) {
         // Remove spaces and split equation by '='
